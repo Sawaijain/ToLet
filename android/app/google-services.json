@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "451864721174",
+    "project_id": "tolet-f153d",
+    "storage_bucket": "tolet-f153d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:451864721174:android:350d242b930baf0e9b4237",
+        "android_client_info": {
+          "package_name": "com.tolet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "451864721174-bt9hkvcbl1bj2uct9km8g3a35mds2jha.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tolet",
+            "certificate_hash": "b06eefd9df718c8d83c83146db7b941797166eaa"
+          }
+        },
+        {
+          "client_id": "451864721174-unts9dja501f1eh5406ssk343crt0cov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR7Sr3fw8AouDwLa_DPUs5_S6CMpPaY9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "451864721174-unts9dja501f1eh5406ssk343crt0cov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

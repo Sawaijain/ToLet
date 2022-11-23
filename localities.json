@@ -1,0 +1,26 @@
+[
+	{
+		name:'Ahirkhedi, Indore',
+		latitude:'22.6796° N',
+		longitude:'75.8101° E',
+		pincode:'453331',
+	},
+	{
+		name:'Ajnod, Indore',
+		latitude:'22.9398° N',
+		longitude:'75.7531° E',
+		pincode:'453551',
+	},
+	{
+		name:'Alok Nagar, Indore',
+		latitude:'22.7255° N',
+		longitude:'75.9209° E',
+		pincode:'452001',
+	},
+	{
+		name:'Ambedkar Nagar, Indore',
+		latitude:'22.7339° N',
+		longitude:'75.8846° E',
+		pincode:'452011',
+	},
+]
